@@ -27,10 +27,10 @@ Understand evaluation metrics, algorithm selection, and explainable AI.
 
 ## Screenshots
 *Linear Regression Output:*  
-![Linear Regression](screenshots/linear_regression_output.png)
+![Linear Regression](screenshots/Linear%20Regression%20Output.png)
 
 *Classification Output:*  
-![Classification](screenshots/classification_output.png)
+![Classification](screenshots/Classification%20Output.png)
 
 ## How to Run the Project
 ```bash
