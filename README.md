@@ -19,11 +19,11 @@ Understand evaluation metrics, algorithm selection, and explainable AI.
 - ReportLab (PDF report generation)
 
 ## Team Members
-- Member 1 | Task 1 -- Model Evaluation
-- Member 2 | Task 2 -- Linear Regression
-- Member 3 | Task 3 -- Classification
-- Member 4 | Tasks 4 & 5 -- Research Tasks
-- Member 5 | Tasks 6 & 7 -- GitHub & Report
+- Nukesh Kumar Sahu | Task 1 -- Model Evaluation
+- Shreepriya Sahu | Task 2 -- Linear Regression
+- Baibhab Nath | Task 3 -- Classification
+- Aditi Sahu | Tasks 4 & 5 -- Research Tasks
+- Manish Sahu | Tasks 6 & 7 -- GitHub & Report
 
 ## Screenshots
 *Linear Regression Output:*  
